@@ -6,7 +6,7 @@ To advance this line of inquiry, this project employs Llama 3.3—a generative A
 
 Key Contributions:
 
-1. Deployment of GenAI via Ollama: The project demonstrates how to use Llama 3.3 locally with the Ollama platform to extract meaningful facial features from historical portrait images.
+1. Deployment of GenAI via Ollama: The project demonstrates how to use Llama 3.0 locally with the Ollama platform to extract meaningful facial features from historical portrait images.
 
 2. Application of Machine Learning: A Logistic Regression model is used to classify officers as successful or unsuccessful based on their career outcomes, using the extracted facial features.
 
